@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915072214362",
+    "project_id": "toonity-e0160",
+    "storage_bucket": "toonity-e0160.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915072214362:android:acd24ad4cffb7ff0103f63",
+        "android_client_info": {
+          "package_name": "com.toonity.app.toonity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMt0iVcz17jR7CWsG_gfFfkhyKzhCLhXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

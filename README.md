@@ -15,6 +15,8 @@ Toonity é uma plataforma digital de **leitura de webtoons**, que combina **nave
 ## 🛠️ Tecnologias
 - **Framework:** Flutter
 - **Linguagem:** Dart
+- **Banco de dados:** Firebase Firestore
+- **Autenticação:** Firebase Auth
 
 ---
 
